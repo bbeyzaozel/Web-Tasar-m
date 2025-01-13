@@ -4,7 +4,7 @@ body {
   
   h1 {
     text-align: center; /*yazıyı ortalamak için*/
-    color : mediumpurple; /*yazı rengini mediumpurple yapmak için*/
+    color :purple; /*yazı rengini purple yapmak için*/
   }
   
   .first {
@@ -14,9 +14,19 @@ body {
   .second {
     font-weight: bold; /*yazıyı kalın yapmak için*/
     font-size: 20px; /*yazı boyutunu 20px yapmak için*/
+    font-family:Verdana, Geneva, Tahoma, sans-serif /*yazı tipini değiştirmek için*/
   }
   
   td {
-    color: #230234; /*yazı rengini koyu mor yapmak için hex kodu*/
+    color: #361e87; /*yazı rengini koyu mor yapmak için hex kodu*/
     font-size: 15px; /*yazı boyutunu 15px yapmak için*/
+  }
+  
+  h5 {
+    color: palevioletred /*yazı rengini pembe tonlu yapmak için*/
+  }
+
+  .rd {
+    color: #871e60; /*yazı rengini pembe tonlu yapmak için hex kodu*/
+    font-size: 15px; /*yazı boyutunu 15px yapmak için*/ 
   }
