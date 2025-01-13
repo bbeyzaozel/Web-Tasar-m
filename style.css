@@ -1,0 +1,22 @@
+body {
+    background-color: lavender /*arka planı lavender yapmak için*/
+  }
+  
+  h1 {
+    text-align: center; /*yazıyı ortalamak için*/
+    color : mediumpurple; /*yazı rengini mediumpurple yapmak için*/
+  }
+  
+  .first {
+    font-size: 20px; /*yazı boyutunu 20px yapmak için*/
+    color: rgb(255,0,0); /*yazı rengini kırmızı yapmak için rgb kod*/
+  }
+  .second {
+    font-weight: bold; /*yazıyı kalın yapmak için*/
+    font-size: 20px; /*yazı boyutunu 20px yapmak için*/
+  }
+  
+  td {
+    color: #410260; /*yazı rengini koyu mor yapmak için hex kodu*/
+    font-size: 15px; /*yazı boyutunu 15px yapmak için*/
+  }
